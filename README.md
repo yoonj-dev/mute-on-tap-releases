@@ -39,3 +39,4 @@ If this tool has saved you from embarrassing audio moments, please consider supp
 This repository only contains the compiled binaries. The source code is maintained in a private environment to ensure integrity. If you encounter any bugs, please report them via the main contact methods.
 
 Developed with ❤️ by **yoonj-dev**.
+
