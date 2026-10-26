@@ -32,7 +32,7 @@ Mute On Tap is a lightweight utility that automatically silences your Windows au
 ## ❤️ Support & Donation
 If this tool has saved you from embarrassing audio moments, please consider supporting the project:
 
-☕ **[Support our Work / Donate](https://temp.uzbar.net/donate)**
+☕ **[Support our Work / Donate](https://brand-ui.on-tap.xyz/donate)**
 
 ---
 ### 🔒 Security & Privacy
